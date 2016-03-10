@@ -1,0 +1,8 @@
+{
+  "name": "lookabro",
+  "description": "Lookabro - vista-se rapido e com estilo",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.6.0"
+  }
+}

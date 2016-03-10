@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.lookable.lookabro" version="1.0.0">
+  <name>Lookabro - assistente de estilo</name>
+  <description>
+   Lookabro te ajuda a escolher rápido qual roupa usar
+  </description>
+  <author email="tiago@stutzsolucoes.com.br" href="http://lookable.com.br/lookabro">
+   Lookable team
+  </author>
+
+  <plugin name="cordova-plugin-camera" version="1.2.0" />
+  <plugin name="cordova-plugin-dialogs" version="1.1.1" />
+
+</widget>
